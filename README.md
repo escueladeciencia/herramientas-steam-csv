@@ -16,9 +16,17 @@ Los requisitos para que una herramienta aparezca en este listado son:
 
 Este repositorio acepta "pull requests". Sólo se admiten cambios (añadir nuevas herramientas, modificar o eliminas las existentes) solicitados por profesionales cualificados de alguno de los centros, escuelas o academias de educación públicas o privadas. Los docentes que quieran añadir alguna nuevas herramientas deberán explicar con casos de uso concretos cómo utilizan la herramienta dentro del aula con el alumnado. En caso de solicitar una modificación (edición o eliminación) deberán argumentar el por qué del cambio.
 
+## Acceso via web
+
+Esta base de datos se puede acceder via web para facilitar la búsqueda de herramientas con filtros para los diferentes valores clave.
+
+🧷 [Listado Web](https://steam.softr.app/)
+
 ## Grupo de Telegram
 
-Si quieres unirte a la conversación y contarnos tu experiencia como docente de algunas de las asignaturas donde se trabajen las materias STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) puedes unirte [a nuestro grupo de Telegram](https://t.me/+hs8VY0P1rfllZDg0).
+Si quieres unirte a la conversación y contarnos tu experiencia como docente de algunas de las asignaturas donde se trabajen las materias STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) puedes unirte a nuestro grupo de Telegram.
+
+🔝 [Acceso al grupo de Telegram](https://t.me/+hs8VY0P1rfllZDg0).
 
 
 ## Licencia
