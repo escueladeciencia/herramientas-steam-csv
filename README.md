@@ -14,7 +14,7 @@ Los requisitos para que una herramienta aparezca en este listado son:
 
 ## Listado de Herramientas STEAM
 
-El listado de herramientas STEAM se encuentra en el archivo [listado-completo.csv](`listado-completo.csv`) en formato CSV (separado por comas).
+El listado de herramientas STEAM se encuentra en el archivo [listado-completo.csv](listado-completo.csv) en formato CSV (separado por comas).
 
 ## Solicitud de cambios
 
