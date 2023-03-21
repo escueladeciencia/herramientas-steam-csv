@@ -3,7 +3,7 @@
 
 Este repositorio contiene un listado de herramientas software y hardware que han sido probadas y están siendo utilizadas por docentes profesionales. El objetivo de este listado es proporcionar información sobre las herramientas más útiles para desarrollar las sáberes STEAM (en Inglés Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) en el aula de centros educativos públicos y privados, escuelas y academias.
 
-En todas las categorías de herramientas se incluye una o varias herramientas abiertas (Open Source) para fomentar la gobernanza tecnológica.
+En todas las categorías de herramientas se incluye una o varias herramientas abiertas (Open Source) para fomentar la [Soberanía Tecnológica](https://es.wikipedia.org/wiki/Soberan%C3%ADa_tecnol%C3%B3gica).
 
 Los requisitos para que una herramienta aparezca en este listado son:
 
