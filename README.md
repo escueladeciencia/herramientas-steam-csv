@@ -26,7 +26,7 @@ Esta base de datos se puede acceder via web para facilitar la búsqueda de herra
 
 Si quieres unirte a la conversación y contarnos tu experiencia como docente de algunas de las asignaturas donde se trabajen las materias STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) puedes unirte a nuestro grupo de Telegram.
 
-🔝 [Acceso al grupo de Telegram](https://t.me/+hs8VY0P1rfllZDg0).
+🔝 [Hablar en Telegram](https://t.me/+hs8VY0P1rfllZDg0)
 
 
 ## Licencia
