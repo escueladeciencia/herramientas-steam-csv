@@ -37,6 +37,6 @@ Si quieres unirte a la conversación y contarnos tu experiencia como docente de 
 
 Creative Commons Zero (CC0).
 
-Esta licencia permite la utilización comercial, la modificación, distribución, uso privado de la base de datos (csv) de este repositorio sin ninguna condición. También exime de cualquier responsabilidad acerca de la utilización de los mismos.
+Esta licencia permite la utilización comercial, la modificación, distribución, uso privado de la base de datos (csv) de este repositorio sin ninguna condición. También exime a sus autores de cualquier responsabilidad acerca de la utilización de los mismos.
 
 Los logotipos y marcas comerciales de las herramientas incluidas en la base de datos son propiedad de las empresas y organizaciones que representan.
