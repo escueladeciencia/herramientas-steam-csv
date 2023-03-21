@@ -18,7 +18,7 @@ El listado de herramientas STEAM se encuentra en el archivo [listado-completo.cs
 
 ## Solicitud de cambios
 
-Si eres docente de un centro, escuela o academia de educación pública o privada puedes pedir que se añadan nuevas herramientas, solicitar correciones o pedir que eliminen (siempre que exista una buena motivación). Puedes solicitar el cambio via `pull request` o a través del grupo de Telegram. Los docentes que quieran añadir alguna nuevas herramientas deberán explicar casos de uso concretos de cómo utilizan la herramienta dentro del aula con el alumnado. En caso de solicitar una modificación (edición o eliminación) deberán argumentar el por qué del cambio.
+Si eres docente de un centro, escuela o academia de educación pública o privada puedes pedir que se añadan nuevas herramientas, solicitar correciones o pedir que eliminen (siempre que exista una buena motivación). Puedes solicitar el cambio via `pull request` o a través del grupo de Telegram. Los docentes que quieran añadir nuevas herramientas deberán explicar casos de uso concretos de cómo utilizan la herramienta dentro del aula con el alumnado. En caso de solicitar una modificación (edición o eliminación) deberán argumentar el por qué del cambio.
 
 ## Acceso via web
 
