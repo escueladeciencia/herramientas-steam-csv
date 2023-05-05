@@ -24,7 +24,7 @@ Si eres docente de un centro, escuela o academia de educación pública o privad
 
 Esta base de datos se puede acceder via web para facilitar la búsqueda de herramientas con filtros para los diferentes valores clave.
 
-🧷 [Ver Listado en la Web](https://steamoteca.es/)
+🧷 [Ver Listado en la Web](https://www.steamlibre.es/)
 
 ## Grupo de Telegram
 
